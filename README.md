@@ -1,1 +1,3 @@
-# shapelet_Implementation_1
+# Time Series Shapelets: A New Primitive for Data Mining
+
+Review and Implementing
